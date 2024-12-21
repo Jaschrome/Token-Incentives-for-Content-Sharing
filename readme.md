@@ -9,6 +9,9 @@ This project leverages blockchain technology to reward users with tokens for sha
 ## Contract address
 0xDEae6f8E14276532dEc651A5e54C3A644957b6a0
 
+![{2C7080B6-284F-429C-92F8-56022C6E536D}](https://github.com/user-attachments/assets/095ddfa0-3a3e-4c63-9758-99b8f5efef86)
+
+
 ## Project Vision
 To create a decentralized platform where content creators and sharers are fairly rewarded for their contributions. The project aims to foster an ecosystem where high-quality content is encouraged, shared widely, and recognized through tokenized rewards.
 
